@@ -14,8 +14,8 @@
 /* JELLYFIN HOTLINE THEME */
 @import url(https://gilbn.github.io/theme.park/CSS/themes/jellyfin/jellyfin-base.css);
 :root {
-  --main-bg-color: radial-gradient(ellipse at center, #F44336 0%, #0b3161 100%) center center/cover no-repeat fixed;
-  --modal-bg-color: radial-gradient(ellipse at center, #F44336 0%, #0b3161 100%) center center/cover no-repeat fixed;
+  --main-bg-color: radial-gradient(ellipse at center, #537c9c 0%, #000000 100%) center center/cover no-repeat fixed;
+  --modal-bg-color: radial-gradient(ellipse at center, #537c9c 0%, #000000 100%) center center/cover no-repeat fixed;
   --button-color: hsla(0,0%,100%,.15);
   --button-color-hover: hsla(0,0%,100%,.30);
   --accent-color:  hsla(0,0%,100%,.85);
